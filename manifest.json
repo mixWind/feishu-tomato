@@ -1,0 +1,11 @@
+{
+  "id": "tomato_timer",
+  "name": "番茄钟",
+  "version": "1.0.0",
+  "description": "在多维表格里给任务跑番茄钟，并自动累加耗时。",
+  "icon": "https://lf1-cdn-tos.bytescm.com/obj/ttfe/ATSX/mainland/tomato.png",
+  "sidebar": {
+    "file": "sidebar.html"
+  },
+  "permissions": ["sheet:read", "sheet:write", "im:send"]
+}
